@@ -1,0 +1,16 @@
+# Small or Big, hours spent from kids are over the limit
+
+#Battle.Net 
+eu.battle.net
+us.battle.net
+nydus.battle.net
+eu.actual.battle.net
+eu.launcher.battle.net
+eu.version.battle.net
+eu.patch.battle.net
+eu.depot.battle.net
+telemetry-in.battle.net
+us-stun.voice.battle.net
+eu-bnp.voice.battle.net
+eu-proxy.bnp.voice.battle.net
+cache-cms-ext-eu.battle.net
