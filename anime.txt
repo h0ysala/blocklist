@@ -1,9 +1,22 @@
-#Anime - They may be harmless, but my kids spend more than half a day browsing these
+# Title: Anime Hosts 
+# Description: Anime - They may be harmless, but my kids spend more than half a day browsing them
+# Version: v1.001 
+# Repository: https://github.com/h0ysala/blocklist
+# Reference: Many from local blocklist * TODO * link to original   
+# License: MIT License Copyright (c) 2020 h0ysala.net
+#
+# (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (EN) WARNING: DO NOT USE *ANY* blocklist without scanning/reviewing 
+#
+#kissanime
 kissanime.ru
 kissmanga.com
-ad.kissanime.nz
 kissanime.nz
+ad.kissanime.nz
+www.kissanime.nz
 kissanime-io.disqus.com
+
+#9anime
 9anime.to
 9anime.ru
 9anime.nl
@@ -14,10 +27,14 @@ kissanime-io.disqus.com
 9anime.page
 9anime.video
 9anime.tv
+
+#animedao
 animedao.stream
 animedao25.stream
 animedao.com
 animedao.disqus.com
+
+#beyond
 static.animecdn.xyz
 cdn.animeapi.com
 ww5.dubbedanime.net
