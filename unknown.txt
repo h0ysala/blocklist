@@ -1,0 +1,12 @@
+# Title: Unknown but Suspesious Hosts 
+# Description: Suspesious Hosts, atleast found them in one or more trusted IP Blockers 
+# Version: v1.000 
+# Repository: https://github.com/h0ysala/blocklist
+# Reference: Many from local blocklist * TODO * link to original   
+# License: MIT License Copyright (c) 2020 h0ysala.net
+#
+# (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (EN) WARNING: DO NOT USE *ANY* blocklist without scanning/reviewing 
+#
+#163.172.229.229  #https://www.abuseipdb.com/check/163.172.229.229
+xinergy.health    #Popped up me as a iPad Winner !

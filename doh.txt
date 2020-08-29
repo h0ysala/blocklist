@@ -1,0 +1,71 @@
+# Title: DNS OVER HTTPS 
+# Description: DOH goodness comes with a price, Blocking unwanted queries to public-DOH Service providers 
+# Version: v1.000 
+# Repository: https://github.com/h0ysala/blocklist
+# Reference: Many from local blocklist * TODO * link to original   
+# See https://github.com/curl/curl/wiki/DNS-over-HTTPS
+# See https://community.ui.com/questions/Blocking-DoH-and-DoT/029ae33e-4608-438d-bb78-25d5a1287f75
+# License: MIT License Copyright (c) 2020 h0ysala.net
+#
+# WARNING: These are DNS, blocking them will endup in unexpected behavior, AND/OR unwanted PAIN IN A$$ 
+# IMPORTANT: Unblock your/and all wanted DNS from below by commenting 
+# 
+
+dns.adguard.com
+dns-family.adguard.com
+dns.google
+#cloudflare-dns.com
+dns.quad9.net
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+doh.opendns.com
+doh.xfinity.com
+dohdot.coxlab.net
+doh.dnslify.com
+dns.nextdns.io
+my.nextdns.io
+dns.dnsoverhttps.net
+doh.crypto.sx
+doh.powerdns.org
+doh-fi.blahdns.com
+doh-jp.blahdns.com
+doh-de.blahdns.com
+doh.ffmuc.net
+dns.dns-over-https.com
+doh.securedns.eu
+dns.rubyfish.cn
+dns.containerpi.com
+dns.seby.io
+doh-2.seby.io
+doh.seby.io
+doh.dnswarden.com
+dns-nyc.aaflalo.me
+dns.aaflalo.me
+applied-privacy.net
+doh.captnemo.in
+blitiri.com.ar
+doh.tiar.app
+doh.tiarap.org
+doh.dns.sb
+rdns.faelix.net
+doh.armadillodns.net
+jp.tiar.app
+jp.tiarap.org
+doh.42l.fr
+dns.hostux.net
+aa.net.uk
+dns.aa.net.uk
+adblock.mydns.network
+ibksturm.synology.me
+jcdns.fun
+ibuki.cgnat.net
+dns.twnic.tw
+example.doh.blockerdns.com
+dns.digitale-gesellschaft.ch
+doh.libredns.gr
+doh.centraleu.pi-dns.com
+doh.northeu.pi-dns.com
+doh.westus.pi-dns.com
+doh.eastus.pi-dns.com
+dns.flatuslifir.is
