@@ -11,6 +11,7 @@
 # IMPORTANT: Unblock your/and all wanted DNS from below by commenting 
 # 
 
+#doh.dns.apple.com
 dns.adguard.com
 dns-family.adguard.com
 dns.google

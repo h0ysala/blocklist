@@ -10,3 +10,10 @@
 #
 #163.172.229.229  #https://www.abuseipdb.com/check/163.172.229.229
 xinergy.health    #Popped up me as a iPad Winner !
+ssl.p.jwpcdn.com  #jwplayer-dualstack.map.fastly.net
+jwplayer-dualstack.map.fastly.net  #Unwanted
+entitlements.jwplayer.com   #Unwanted
+stream-2-1.loadshare.org   #Unwanted
+stream-2.loadshare.org     #Unwanted
+stream-1-1.loadshare.org   
+stream-1.loadshare.org
